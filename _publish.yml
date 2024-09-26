@@ -1,0 +1,4 @@
+- source: writingRFunctions.qmd
+  quarto-pub:
+    - id: 4cb72fdd-cb9a-405f-9725-c16362840ba1
+      url: 'https://simi.quarto.pub/creating-r-functions'

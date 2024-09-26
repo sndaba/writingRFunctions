@@ -1,0 +1,22 @@
+/* css styles */
+
+.title {
+  font-size: 80px !important;
+  color: white !important;
+}
+
+.quarto-title-author-name {
+  font-size: 70px;
+  color: white !important;
+}
+
+.date {
+  font-size: 80px;
+  color: green !important;
+}
+
+#title-slide {
+  .title {
+    font-size: 4.5em;
+    color: #ffffff;
+  }
